@@ -2,7 +2,7 @@ var resume = {
     "name": "Ajit PAtil",
     "label": "Software Engineer",
     "email": "ajitpatil6734@gmail.com",
-    "phone":"+91-9561448626",
+    "phone":"+91-911111111",
     "LOCATION": {
       "address": "Sangli",
       "postalCode": "416410",
