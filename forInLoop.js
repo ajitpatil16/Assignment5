@@ -1,7 +1,7 @@
 let obj = {
     name: "Ajitrao Patil",
     email: "ajit@gmail.com",
-    phone: "9561448626",
+    phone: "911111111",
     degree: "B.E",
 }
 
